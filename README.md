@@ -2,4 +2,4 @@
 
 Example display Label in google map
 
-![Imgur Image](http://thuyvk.com/Uploads/googlemaplabel.png)
+![Screenshot](http://thuyvk.com/Uploads/googlemaplabel.png?raw=true)
